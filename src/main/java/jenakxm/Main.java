@@ -7,7 +7,6 @@ import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        ConnectedComponent_11724 cn = new ConnectedComponent_11724();
-        cn.CC11724();
+        DfsBfs_1260.dfsbfs();
     }
 }
