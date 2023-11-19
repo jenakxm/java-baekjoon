@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1924a786-13d5-4ef3-883f-f414bb3aefd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jenakxm/FindPrime_1929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jenakxm/Greedy_1541.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jenakxm/UnionFind_1717.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jenakxm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jenakxm/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
