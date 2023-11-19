@@ -7,6 +7,7 @@ import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        DfsBfs_1260.dfsbfs();
+        FindPrime_1929 findPrime1929 = new FindPrime_1929();
+        findPrime1929.prime();
     }
 }
