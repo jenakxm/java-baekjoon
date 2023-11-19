@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        FindGoodNumber findGoodNumber = new FindGoodNumber();
-        findGoodNumber.findTheNumber();
+        ConnectedComponent_11724 cn = new ConnectedComponent_11724();
+        cn.CC11724();
     }
 }
