@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1924a786-13d5-4ef3-883f-f414bb3aefd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jenakxm/Marble_13460.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jenakxm/Set_11723.java" afterDir="false" />
+    <list default="true" id="1924a786-13d5-4ef3-883f-f414bb3aefd6" name="Changes" comment="7568 덩치 비교">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jenakxm/Shortcut_1283.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jenakxm/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jenakxm/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,18 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,7 +45,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2YLVgpfl8WywM6Gc5c9uKRX7kMI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,6 +58,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;jenakxm&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jenamac/dev/java-baekjoon&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
@@ -117,8 +131,59 @@
       <option name="project" value="LOCAL" />
       <updated>1700546006120</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11723 집합">
+      <option name="closed" value="true" />
+      <created>1700793254500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700793254500</updated>
+    </task>
+    <task id="LOCAL-00007" summary="main default">
+      <option name="closed" value="true" />
+      <created>1700793268329</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700793268329</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chore: build file">
+      <option name="closed" value="true" />
+      <created>1700793318675</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700793318675</updated>
+    </task>
+    <task id="LOCAL-00009" summary="9655 돌 게임">
+      <option name="closed" value="true" />
+      <created>1701759975505</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701759975505</updated>
+    </task>
+    <task id="LOCAL-00010" summary="7568 덩치 비교">
+      <option name="closed" value="true" />
+      <created>1701771233388</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701771233388</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5073 삼각형 변의 길이" />
@@ -126,6 +191,11 @@
     <MESSAGE value="1157 단어 공부" />
     <MESSAGE value="2292 벌집" />
     <MESSAGE value="docs: update" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: update" />
+    <MESSAGE value="11723 집합" />
+    <MESSAGE value="main default" />
+    <MESSAGE value="chore: build file" />
+    <MESSAGE value="9655 돌 게임" />
+    <MESSAGE value="7568 덩치 비교" />
+    <option name="LAST_COMMIT_MESSAGE" value="7568 덩치 비교" />
   </component>
 </project>
